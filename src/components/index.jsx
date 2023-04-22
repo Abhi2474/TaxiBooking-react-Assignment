@@ -1,0 +1,6 @@
+export { default as Navbar } from './Navbar'
+export { default as Carousel } from './Carousel'
+export { default as Text } from './Text'
+export { default as Contents } from './Contents'
+export { default as Footer } from './Footer'
+export { default as MyForm } from './MyForm'
