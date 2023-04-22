@@ -16,7 +16,8 @@ Install the dependencies with npm
 Install the dependencies with npm
 
 ```bash
-  npm install
+cd TaxiBooking-react-Assignment  
+npm install
 ``` 
 ## Deployment
 
